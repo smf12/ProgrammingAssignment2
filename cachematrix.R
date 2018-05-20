@@ -1,5 +1,6 @@
-## Put comments here that give an overall description of what your
-## functions do
+## These function produce an inverse of a matrix. Cache
+## storage is used to limit wasted computing matrix inversion
+## on the same matrix multiple times.
 
 ## This function creates a list containing 4 functions:
 ## set_mat that sets the matrix data
